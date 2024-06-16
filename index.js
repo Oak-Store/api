@@ -137,3 +137,5 @@ app.delete('/user/:uid', (req, res) => {
 app.listen(3000, function () {
   console.log('TrindadeAPI is running');
 });
+
+module.exports = app
