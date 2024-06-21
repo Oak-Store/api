@@ -1,4 +1,3 @@
-node_modules/
-database/
-
-.vercel
+package-lock.json
+node_modules
+testing
